@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 import "hardhat/console.sol";
 // this has been deployed to : 0x14824D288aCc97899d34F94923b5F4e0c2382402
-// sec deploy : https://replit.com/@fleischi-svr/BuyMeACoffee-Solidity-DeFi-Tipping-app#pages/index.jsx
+// sec deploy : 0x8Cc37F170DE5033dA63d028E38bE5dDB64dB6AF4
 
 contract BuyMeACoffee {
     // Event to emit when a Memo is created
